@@ -17,12 +17,12 @@ Hi, My name is Tuan Van NGUYEN(Mr), I Have about 8 years of experience in Softwa
 </div>
 
 ### 🔧 Technologies & Tools
-- **Languages:** Python, JavaScript, SQL
+- **Languages:** Python, JavaScript, Java
 - **Frameworks:** Django, Flask, FastAPI, Next.js
 - **Machine Learning:** Scikit-Learn, TensorFlow, PyTorch, Keras
 - **Web Scraping:** BeautifulSoup, Selenium, Scrapy
 - **AI & NLP:** OpenAI API, LLaMA, Hugging Face Transformers
-- **Databases:** PostgreSQL, MongoDB, Redis
+- **Databases:** PostgreSQL, MongoDB, Redis, Scylla, Cassandra ...
 - **Cloud & DevOps:** AWS, Docker, Kubernetes
 
 
