@@ -7,7 +7,7 @@ Hi, My name is Tuan Van NGUYEN(Mr), I Have about 8 years of experience in Softwa
 - 🖥️ I’m currently working as a Senior Data Engineer.
 - 🌱 I have developed many more projects such as Bigdata Platform, Dataops, Finops, MLops, Data Insight  ... 
 - 😄 Pronouns: He/His
-[<p align="center"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=tuancamtbtx&no-frame=true&column=8&theme=darkhub&title=MultiLanguage,Repositories,Stars,Followers,Commits,Experience,Issues,PullRequest" alt="tuancamtbtx" /></a> </p>]()
+[<p align="center"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=tuanai-vireox&no-frame=true&column=8&theme=darkhub&title=MultiLanguage,Repositories,Stars,Followers,Commits,Experience,Issues,PullRequest" alt="tuanai-vireox" /></a> </p>]()
 
 ### 📫 How to reach me:
 <div>
@@ -49,23 +49,23 @@ Hi, My name is Tuan Van NGUYEN(Mr), I Have about 8 years of experience in Softwa
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ### 🤠 My Github - Overview
 <div style="display: flex; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=tuancamtbtx&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" style="width:300px; height:200px; margin:10px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuancamtbtx&theme=vue-dark&hide_border=true" alt="GitHub Streak" style="width:300px; height:200px; margin:10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuancamtbtx&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" style="width:300px; height:200px; margin:10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=tuanai-vireox&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" style="width:300px; height:200px; margin:10px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuanai-vireox&theme=vue-dark&hide_border=true" alt="GitHub Streak" style="width:300px; height:200px; margin:10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuanai-vireox&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" style="width:300px; height:200px; margin:10px;">
 </div>
 
 ### 😇 My Commit - Overview
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tuancamtbtx/tuancamtbtx/output/github-contribution-grid-snake.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tuancamtbtx/tuancamtbtx/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tuancamtbtx/tuancamtbtx/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tuanai-vireox/tuanai-vireox/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tuanai-vireox/tuanai-vireox/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tuanai-vireox/tuanai-vireox/output/github-contribution-grid-snake.svg">
 </picture>
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=tuancamtbtx&color=0E9C47&style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=tuanai-vireox&color=0E9C47&style=for-the-badge">
 
-<!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/tuancamtbtx/github-readme-activity-graph -->
+<!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/tuanai-vireox/github-readme-activity-graph -->
 <p align="center">
   
 ### 🛠️ Technologies & Tools
