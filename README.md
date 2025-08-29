@@ -7,7 +7,7 @@ Hi, My name is Tuan Van NGUYEN(Mr), I Have about 8 years of experience in Softwa
 - 🖥️ I’m currently working as a Senior Data Engineer.
 - 🌱 I have developed many more projects such as Bigdata Platform, Dataops, Finops, MLops, Data Insight  ... 
 - 😄 Pronouns: He/His
-[<p align="center"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=tuanai-vireox&no-frame=true&column=8&theme=darkhub&title=MultiLanguage,Repositories,Stars,Followers,Commits,Experience,Issues,PullRequest" alt="tuanai-vireox" /></a> </p>]()
+
 
 ### 📫 How to reach me:
 <div>
