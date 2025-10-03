@@ -1,10 +1,10 @@
 ### Hello World 🖥️ 🖐️
-Hi, My name is Tuan Van NGUYEN(Mr), I Have about 8 years of experience in Software and Bigdata Engineering.Currently I'm working as a Senior Data Engineer 🚀(Tiki). I'd like to everything to be easy to work. Beside's programming, I enjoy eating food and traveling.
+Hi, My name is Tuan Van NGUYEN(Mr), I Have about 8 years of experience in Software and Bigdata Engineering.Currently I'm working as a Senior Data Engineer And Full Stack Engineer 🚀(Vireo Health, US Company). I'd like to everything to be easy to work. Beside's programming, I enjoy eating food and traveling.
 
 ### About me 🐬
 [![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=350&section=header&text=Tuan%20Nguyen&fontSize=80&animation=twinkling&fontAlignY=43&desc=A%20Data%20Engineer%20/%20A%20Technology%20Lover&descAlignY=57&descAlign=63)]()
 - 🖐️ I'm Nguyen Van Tuan
-- 🖥️ I’m currently working as a Senior Data Engineer.
+- 🖥️ I’m currently working as a Senior Data Engineer and Full Stack Engineer.
 - 🌱 I have developed many more projects such as Bigdata Platform, Dataops, Finops, MLops, Data Insight  ... 
 - 😄 Pronouns: He/His
 
